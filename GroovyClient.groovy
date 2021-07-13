@@ -3,7 +3,7 @@
 @Grab("net.codebuilders:ridl:4.1.6")
 @Grab("net.codebuilders:unoil:4.1.6")
 @Grab("net.codebuilders:jurt:4.1.6")
-@Grab('net.codebuilders:guno-extension:4.1.6.13')
+@Grab('net.codebuilders:guno-extension:4.1.6.16')
 @Grab('com.opencsv:opencsv:5.2')
 
 import com.sun.star.beans.XPropertySet
